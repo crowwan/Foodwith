@@ -1,0 +1,21 @@
+body, pre{
+  font-family: '나눔 고딕', NanumGothic, '돋움',Dotum, sans-serif;
+}
+html, body, div, ul, ol,pre{
+  margin: 0;
+  padding: 0;
+}
+h1,h2,h3,h4,h5,h6{
+  font-style: normal;
+  font-weight: normal;
+}
+ul,ol{
+  list-style: none;
+}
+a{
+  text-decoration: none;
+  color: #000;
+}
+img{
+  vertical-align: top;
+}
